@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "777",
+          "short_name": "777",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Brockton Avenue",
+          "short_name": "Brockton Ave",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Abington",
+          "short_name": "Abington",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Plymouth County",
+          "short_name": "Plymouth County",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Massachusetts",
+          "short_name": "MA",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "02351",
+          "short_name": "02351",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "777 Brockton Ave, Abington, MA 02351, USA",
+      "geometry": {
+        "location": {
+          "lat": 42.0963,
+          "lng": -70.96849999999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 42.0976489802915,
+            "lng": -70.9671510197085
+          },
+          "southwest": {
+            "lat": 42.0949510197085,
+            "lng": -70.9698489802915
+          }
+        }
+      },
+      "place_id": "ChIJTxHf2G2b5IkR2BgSaknj3RU",
+      "plus_code": {
+        "compound_code": "32WJ+GJ Abington, Massachusetts, United States",
+        "global_code": "87JF32WJ+GJ"
+      },
+      "types": [
+        "department_store",
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store",
+        "supermarket"
+      ]
+    }
+  ],
+  "status": "OK"
+}
